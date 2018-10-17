@@ -1,8 +1,6 @@
 {
   "GroveGesture": "Grove Gestures",
   "grove": "Functions to operate Grove module.",
-  "grove.GroveJoystick.read": "Detect position from Grove - Thumb Joystick",
-  "grove.GroveJoystick.read|param|xPin": "@param yPin",
   "grove.PAJ7620.init": "Create a new driver of Grove - Gesture",
   "grove.PAJ7620.read": "Detect and recognize the gestures from Grove - Gesture",
   "grove.TM1637.bit": "Show a single number from 0 to 9 at a specified digit of Grove - 4-Digit Display",
@@ -23,9 +21,5 @@
   "grove.measureInInches|param|pin": "signal pin of ultrasonic ranger module",
   "grove.onGesture": "Do something when a gesture is detected by Grove - Gesture",
   "grove.onGesture|param|gesture": "type of gesture to detect",
-  "grove.onGesture|param|handler": "code to run",
-  "grove.onJoystick": "Do something when a key is detected by Grove - Thumb Joystick",
-  "grove.onJoystick|param|handler": "code to run",
-  "grove.onJoystick|param|key": "type of joystick to detect",
-  "grove.onJoystick|param|xpin": "@param ypin"
+  "grove.onGesture|param|handler": "code to run"
 }
